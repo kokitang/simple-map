@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@ant-design/icons-vue": "^6.1.0",
-    "@googlemaps/js-api-loader": "^1.16.2",
+    "@googlemaps/js-api-loader": "^1.16.10",
     "ant-design-vue": "^4.0.0",
     "vue": "^3.3.4"
   },
